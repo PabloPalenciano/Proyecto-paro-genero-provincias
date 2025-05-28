@@ -8,3 +8,6 @@ Así mismo, dentro de esta carpeta zip también se halla la carpeta "recursos", 
 Para ver el Anexo, basta con descargar la carpeta, descomprmirla, y pinchar en el Anexo.QMD.
 
 ¡Gracias por su atención!
+
+ATENCIÓN: Es posible, que al pinchar sobre "Proyecto_Final.zip" salte un mensaje como: "(Sorry about that, but we can’t show files that are this big right now.)"
+NO HAY PROBLEMA, basta con hacer click sobre "View Raw" y automáticamente comenzará la descarga de la carpeta zip.
