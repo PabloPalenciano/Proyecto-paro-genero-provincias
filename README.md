@@ -1,4 +1,4 @@
-# proyecto-tasasprovincia-sexo
+# Proyecto-paro-genero-provincias
 En este repositorio encontrarás una carpeta zip llamada Proyecto_Final, la carpeta contiene:
 Dos arhivos con el nombre "Anexo", uno de ellos formato HTML, el otro QMD.
 Un PDF llamado "tarea_final", que es básicamente el informe.
